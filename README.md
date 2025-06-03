@@ -1,4 +1,4 @@
-# 🌸 Contact Us – Feedback Form
+# Contact Us – Feedback Form
 
 A stylish and responsive contact form built with HTML, CSS, and JavaScript, designed to collect user feedback with a focus on validation and aesthetics.
 
@@ -6,7 +6,7 @@ A stylish and responsive contact form built with HTML, CSS, and JavaScript, desi
 
 ## 🚀 Live Demo
 
-[screenshot](ss.png)
+![screenshot](ss.png)
 👉 [View Deployed Project](https://archiep27.github.io/Contact-Page-JavaScript-Validation/)  
 
 ---
